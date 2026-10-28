@@ -18,7 +18,6 @@
 - 🎓 Estudante de **Engenharia de Software** na **Unicid**
 - 🌐 Crio sites com **JavaScript, HTML e CSS** e automações com **Python**
 - ⚙️ Gosto de deixar projetos se atualizando sozinhos com **GitHub Actions**
-- 🥋 Fiz o site da **Cohab Team** de Brazilian Jiu-Jitsu
 
 <img src="./assets/divider.svg" width="100%" alt="" />
 
