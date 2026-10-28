@@ -1,0 +1,67 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 240" width="1000" height="240">
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#05061a"/><stop offset=".6" stop-color="#0d0b2e"/><stop offset="1" stop-color="#1a0f3d"/></linearGradient>
+</defs>
+<style>
+  text { font-family: 'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif; }
+  .h { font-size: 18px; font-weight: 700; fill: #fff; letter-spacing: 2px; }
+  .lbl { font-size: 12px; fill: #b9c4ff; letter-spacing: 1px; }
+  .num { font-size: 22px; font-weight: 700; fill: #fff; }
+  .lang { font-size: 13px; fill: #d9ccff; }
+  .pct { font-size: 12px; fill: #b9c4ff; }
+  .pop { opacity: 0; animation: pop .6s ease-out forwards; }
+  @keyframes pop { from { opacity: 0; transform: translateY(8px) } to { opacity: 1; transform: none } }
+  .grow { transform-box: fill-box; transform-origin: left; transform: scaleX(0); animation: grow 1.2s cubic-bezier(.2,.8,.2,1) forwards; }
+  @keyframes grow { to { transform: scaleX(1) } }
+  .tw { animation: tw 3s ease-in-out infinite; }
+  @keyframes tw { 0%,100% { opacity: .2 } 50% { opacity: .9 } }
+</style>
+<rect width="1000" height="240" rx="16" fill="url(#bg)"/>
+<rect x=".5" y=".5" width="999" height="239" rx="16" fill="none" stroke="#a78bfa" stroke-opacity=".25"/>
+<g fill="#fff">
+  <circle cx="470" cy="40" r="1" class="tw"/><circle cx="960" cy="200" r="1.2" class="tw" style="animation-delay:-1s"/>
+  <circle cx="490" cy="210" r=".8" class="tw" style="animation-delay:-2s"/><circle cx="940" cy="30" r="1" class="tw" style="animation-delay:-.5s"/>
+</g>
+<text x="30" y="44" class="h">📡 PAINEL DA NAVE</text>
+<text x="520" y="44" class="h">🪐 LINGUAGENS</text>
+  <g class="pop" style="animation-delay:0.00s">
+    <rect x="30" y="70" width="200" height="66" rx="12" fill="#ffffff" fill-opacity=".05" stroke="#a78bfa" stroke-opacity=".35"/>
+    <text x="48" y="112" font-size="24">🛰️</text>
+    <text x="88" y="98" class="lbl">Repositórios</text>
+    <text x="88" y="122" class="num">4</text>
+  </g>
+  <g class="pop" style="animation-delay:0.15s">
+    <rect x="250" y="70" width="200" height="66" rx="12" fill="#ffffff" fill-opacity=".05" stroke="#a78bfa" stroke-opacity=".35"/>
+    <text x="268" y="112" font-size="24">⭐</text>
+    <text x="308" y="98" class="lbl">Estrelas</text>
+    <text x="308" y="122" class="num">0</text>
+  </g>
+  <g class="pop" style="animation-delay:0.30s">
+    <rect x="30" y="150" width="200" height="66" rx="12" fill="#ffffff" fill-opacity=".05" stroke="#a78bfa" stroke-opacity=".35"/>
+    <text x="48" y="192" font-size="24">☄️</text>
+    <text x="88" y="178" class="lbl">Commits</text>
+    <text x="88" y="202" class="num">41</text>
+  </g>
+  <g class="pop" style="animation-delay:0.45s">
+    <rect x="250" y="150" width="200" height="66" rx="12" fill="#ffffff" fill-opacity=".05" stroke="#a78bfa" stroke-opacity=".35"/>
+    <text x="268" y="192" font-size="24">👽</text>
+    <text x="308" y="178" class="lbl">Seguidores</text>
+    <text x="308" y="202" class="num">0</text>
+  </g>
+  <text x="520" y="90" class="lang">JavaScript</text>
+  <rect x="630" y="78" width="300" height="14" rx="7" fill="#ffffff" fill-opacity=".07"/>
+  <rect x="630" y="78" width="173.7" height="14" rx="7" fill="#f1e05a" class="grow" style="animation-delay:0.30s"/>
+  <text x="942" y="90" class="pct">57.9%</text>
+  <text x="520" y="120" class="lang">CSS</text>
+  <rect x="630" y="108" width="300" height="14" rx="7" fill="#ffffff" fill-opacity=".07"/>
+  <rect x="630" y="108" width="53.4" height="14" rx="7" fill="#663399" class="grow" style="animation-delay:0.42s"/>
+  <text x="942" y="120" class="pct">17.8%</text>
+  <text x="520" y="150" class="lang">HTML</text>
+  <rect x="630" y="138" width="300" height="14" rx="7" fill="#ffffff" fill-opacity=".07"/>
+  <rect x="630" y="138" width="52.5" height="14" rx="7" fill="#e34c26" class="grow" style="animation-delay:0.54s"/>
+  <text x="942" y="150" class="pct">17.5%</text>
+  <text x="520" y="180" class="lang">Python</text>
+  <rect x="630" y="168" width="300" height="14" rx="7" fill="#ffffff" fill-opacity=".07"/>
+  <rect x="630" y="168" width="20.3" height="14" rx="7" fill="#3572A5" class="grow" style="animation-delay:0.66s"/>
+  <text x="942" y="180" class="pct">6.8%</text>
+</svg>

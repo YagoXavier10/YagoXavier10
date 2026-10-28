@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 24" width="1000" height="24">
+<defs>
+  <linearGradient id="l" x1="0" x2="1"><stop offset="0" stop-color="#7b3fe4" stop-opacity="0"/><stop offset=".5" stop-color="#7b3fe4"/><stop offset="1" stop-color="#1fa2ff" stop-opacity="0"/></linearGradient>
+  <linearGradient id="tail" x1="0" x2="1"><stop offset="0" stop-color="#1fa2ff" stop-opacity="0"/><stop offset="1" stop-color="#fff"/></linearGradient>
+</defs>
+<style>
+  .comet { animation: fly 5s cubic-bezier(.5,0,.5,1) infinite; }
+  @keyframes fly { from { transform: translateX(-120px) } to { transform: translateX(1000px) } }
+</style>
+<rect y="11" width="1000" height="2" fill="url(#l)"/>
+<g class="comet"><rect x="0" y="10.5" width="90" height="3" rx="1.5" fill="url(#tail)"/><circle cx="90" cy="12" r="4" fill="#fff"/><circle cx="90" cy="12" r="8" fill="#a78bfa" opacity=".35"/></g>
+</svg>
