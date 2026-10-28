@@ -2,9 +2,24 @@
   "game": {
     "round": 1,
     "hidden": "WyJDNSIsICJFMiIsICJGMSIsICJBMyIsICJGMyIsICJDMSJd",
-    "shots": {}
+    "shots": {
+      "A1": "YagoXavier10"
+    }
   },
-  "log": [],
-  "players": {},
+  "log": [
+    {
+      "user": "YagoXavier10",
+      "cell": "A1",
+      "result": "💨 Errou, só poeira espacial.",
+      "at": "2026-10-28T16:36:30+00:00"
+    }
+  ],
+  "players": {
+    "YagoXavier10": {
+      "hits": 0,
+      "shots": 1,
+      "wins": 0
+    }
+  },
   "winners": []
 }
