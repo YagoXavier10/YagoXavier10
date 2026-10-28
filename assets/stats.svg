@@ -50,18 +50,18 @@
   </g>
   <text x="520" y="90" class="lang">JavaScript</text>
   <rect x="630" y="78" width="300" height="14" rx="7" fill="#ffffff" fill-opacity=".07"/>
-  <rect x="630" y="78" width="172.2" height="14" rx="7" fill="#f1e05a" class="grow" style="animation-delay:0.30s"/>
-  <text x="942" y="90" class="pct">57.4%</text>
+  <rect x="630" y="78" width="173.0" height="14" rx="7" fill="#f1e05a" class="grow" style="animation-delay:0.30s"/>
+  <text x="942" y="90" class="pct">57.7%</text>
   <text x="520" y="120" class="lang">CSS</text>
   <rect x="630" y="108" width="300" height="14" rx="7" fill="#ffffff" fill-opacity=".07"/>
-  <rect x="630" y="108" width="52.9" height="14" rx="7" fill="#663399" class="grow" style="animation-delay:0.42s"/>
-  <text x="942" y="120" class="pct">17.6%</text>
+  <rect x="630" y="108" width="53.2" height="14" rx="7" fill="#663399" class="grow" style="animation-delay:0.42s"/>
+  <text x="942" y="120" class="pct">17.7%</text>
   <text x="520" y="150" class="lang">HTML</text>
   <rect x="630" y="138" width="300" height="14" rx="7" fill="#ffffff" fill-opacity=".07"/>
-  <rect x="630" y="138" width="52.0" height="14" rx="7" fill="#e34c26" class="grow" style="animation-delay:0.54s"/>
-  <text x="942" y="150" class="pct">17.3%</text>
+  <rect x="630" y="138" width="52.3" height="14" rx="7" fill="#e34c26" class="grow" style="animation-delay:0.54s"/>
+  <text x="942" y="150" class="pct">17.4%</text>
   <text x="520" y="180" class="lang">Python</text>
   <rect x="630" y="168" width="300" height="14" rx="7" fill="#ffffff" fill-opacity=".07"/>
-  <rect x="630" y="168" width="22.9" height="14" rx="7" fill="#3572A5" class="grow" style="animation-delay:0.66s"/>
-  <text x="942" y="180" class="pct">7.6%</text>
+  <rect x="630" y="168" width="21.5" height="14" rx="7" fill="#3572A5" class="grow" style="animation-delay:0.66s"/>
+  <text x="942" y="180" class="pct">7.2%</text>
 </svg>
