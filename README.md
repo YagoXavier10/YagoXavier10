@@ -41,7 +41,7 @@
 | :-- | :-- | :-: |
 | 🥋 [**cohab-team**](https://github.com/YagoXavier10/cohab-team) | Site da Cohab Team de Brazilian Jiu-Jitsu: história, conquistas, atletas, campeonatos e notícias | [🌐 Ver site](https://yagoxavier10.github.io/cohab-team/) |
 | 📰 [**portfolio-noticias**](https://github.com/YagoXavier10/portfolio-noticias) | Portfólio com notícias atualizadas todo dia via GitHub Actions | [🌐 Ver site](https://yagoxavier10.github.io/portfolio-noticias/) |
-| 🤼 [**tatame-online**](https://github.com/YagoXavier10/tatame-online) | Versão do site da Cohab Team em um link separado | [🌐 Ver site](https://yagoxavier10.github.io/tatame-online/) |
+| 🤼 [**tatame-online**](https://github.com/YagoXavier10/tatame-online) | Jogos de jiu-jitsu no navegador: luta ao vivo, quiz, relâmpago e mais, com ranking online | [🌐 Ver site](https://yagoxavier10.github.io/tatame-online/) |
 
 <img src="./assets/divider.svg" width="100%" alt="" />
 
