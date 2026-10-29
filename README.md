@@ -19,6 +19,7 @@
 - 🎓 Estudante de **Engenharia de Software** na **Unicid**
 - 🌐 Crio sites com **JavaScript, HTML e CSS** e automações com **Python**
 - ⚙️ Gosto de deixar projetos se atualizando sozinhos com **GitHub Actions**
+- 🤖 Treinei um modelo de **machine learning** que classifica manchetes e roda direto no navegador
 
 <img src="./assets/divider.svg" width="100%" alt="" />
 
@@ -29,6 +30,7 @@
   <img src="https://img.shields.io/badge/HTML5-0d0b2e?style=for-the-badge&logo=html5&logoColor=e34f26" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-0d0b2e?style=for-the-badge&logo=css&logoColor=1572b6" alt="CSS3" />
   <img src="https://img.shields.io/badge/Python-0d0b2e?style=for-the-badge&logo=python&logoColor=ffd43b" alt="Python" />
+  <img src="https://img.shields.io/badge/scikit--learn-0d0b2e?style=for-the-badge&logo=scikitlearn&logoColor=f7931e" alt="scikit-learn" />
   <img src="https://img.shields.io/badge/GitHub_Actions-0d0b2e?style=for-the-badge&logo=githubactions&logoColor=2088ff" alt="GitHub Actions" />
   <img src="https://img.shields.io/badge/Git-0d0b2e?style=for-the-badge&logo=git&logoColor=f05032" alt="Git" />
 </p>
@@ -36,6 +38,9 @@
 <img src="./assets/divider.svg" width="100%" alt="" />
 
 ## 🚀 Missões em destaque
+
+<a href="https://github.com/YagoXavier10/classificador-manchetes"><img src="https://raw.githubusercontent.com/YagoXavier10/classificador-manchetes/main/assets/banner.svg" width="100%" alt="Classificador de Manchetes · machine learning" /></a>
+<p align="center"><a href="https://yagoxavier10.github.io/classificador-manchetes/">🤖 Testar a IA</a> · <a href="https://github.com/YagoXavier10/classificador-manchetes">📂 Código</a></p>
 
 <a href="https://github.com/YagoXavier10/cohab-team"><img src="https://raw.githubusercontent.com/YagoXavier10/cohab-team/main/assets/banner.svg" width="100%" alt="Cohab Team · Brazilian Jiu-Jitsu" /></a>
 <p align="center"><a href="https://yagoxavier10.github.io/cohab-team/">🌐 Ver site</a> · <a href="https://github.com/YagoXavier10/cohab-team">📂 Código</a></p>
