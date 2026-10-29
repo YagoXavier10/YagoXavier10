@@ -37,11 +37,14 @@
 
 ## 🚀 Missões em destaque
 
-| Missão | Sobre | Lançamento |
-| :-- | :-- | :-: |
-| 🥋 [**cohab-team**](https://github.com/YagoXavier10/cohab-team) | Site da Cohab Team de Brazilian Jiu-Jitsu: história, conquistas, atletas, campeonatos e notícias | [🌐 Ver site](https://yagoxavier10.github.io/cohab-team/) |
-| 📰 [**portfolio-noticias**](https://github.com/YagoXavier10/portfolio-noticias) | Portfólio com notícias atualizadas todo dia via GitHub Actions | [🌐 Ver site](https://yagoxavier10.github.io/portfolio-noticias/) |
-| 🤼 [**tatame-online**](https://github.com/YagoXavier10/tatame-online) | Jogos de jiu-jitsu no navegador: luta ao vivo, quiz, relâmpago e mais, com ranking online | [🌐 Ver site](https://yagoxavier10.github.io/tatame-online/) |
+<a href="https://github.com/YagoXavier10/cohab-team"><img src="https://raw.githubusercontent.com/YagoXavier10/cohab-team/main/assets/banner.svg" width="100%" alt="Cohab Team · Brazilian Jiu-Jitsu" /></a>
+<p align="center"><a href="https://yagoxavier10.github.io/cohab-team/">🌐 Ver site</a> · <a href="https://github.com/YagoXavier10/cohab-team">📂 Código</a></p>
+
+<a href="https://github.com/YagoXavier10/portfolio-noticias"><img src="https://raw.githubusercontent.com/YagoXavier10/portfolio-noticias/main/assets/banner.svg" width="100%" alt="Portfólio de Notícias" /></a>
+<p align="center"><a href="https://yagoxavier10.github.io/portfolio-noticias/">🌐 Ver site</a> · <a href="https://github.com/YagoXavier10/portfolio-noticias">📂 Código</a></p>
+
+<a href="https://github.com/YagoXavier10/tatame-online"><img src="https://raw.githubusercontent.com/YagoXavier10/tatame-online/main/assets/banner.svg" width="100%" alt="Tatame Online · jogos de jiu-jitsu" /></a>
+<p align="center"><a href="https://yagoxavier10.github.io/tatame-online/">🎮 Jogar</a> · <a href="https://github.com/YagoXavier10/tatame-online">📂 Código</a></p>
 
 <img src="./assets/divider.svg" width="100%" alt="" />
 
