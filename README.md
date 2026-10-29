@@ -9,6 +9,7 @@
 <p align="center">
   <a href="https://github.com/YagoXavier10?tab=repositories"><img src="https://img.shields.io/badge/Repositórios-explorar-7b3fe4?style=for-the-badge&logo=github&logoColor=white&labelColor=0d0b2e" alt="Repositórios" /></a>
   <a href="https://yagoxavier10.github.io/portfolio-noticias/"><img src="https://img.shields.io/badge/Portfólio-ver-1fa2ff?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0d0b2e" alt="Portfólio" /></a>
+  <a href="https://www.linkedin.com/in/yago-dos-santos-20157a25a/"><img src="https://img.shields.io/badge/LinkedIn-conectar-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d0b2e" alt="LinkedIn" /></a>
 </p>
 
 <img src="./assets/divider.svg" width="100%" alt="" />
