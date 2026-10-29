@@ -53,6 +53,19 @@
 
 <img src="./assets/divider.svg" width="100%" alt="" />
 
+## 🛰️ Últimas atividades
+
+<!-- ATIVIDADE:INICIO -->
+| Quando | Projeto | Último commit |
+| :-: | :-- | :-- |
+| `28/10` | [**classificador-manchetes**](https://github.com/YagoXavier10/classificador-manchetes) · [site](https://yagoxavier10.github.io/classificador-manchetes/) | README: números que não ficam desatualizados |
+| `28/10` | [**portfolio-noticias**](https://github.com/YagoXavier10/portfolio-noticias) · [site](https://yagoxavier10.github.io/portfolio-noticias/) | README com banner animado, prévia, selos e licença MIT |
+| `28/10` | [**tatame-online**](https://github.com/YagoXavier10/tatame-online) · [site](https://yagoxavier10.github.io/tatame-online/) | README com banner animado, prévia, selos e licença MIT |
+| `28/10` | [**cohab-team**](https://github.com/YagoXavier10/cohab-team) · [site](https://yagoxavier10.github.io/cohab-team/) | README com banner animado, prévia, selos e licença MIT |
+<!-- ATIVIDADE:FIM -->
+
+<img src="./assets/divider.svg" width="100%" alt="" />
+
 ## 📡 Painel da nave
 
 <p align="center">
@@ -65,6 +78,10 @@
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YagoXavier10/YagoXavier10/output/snake-light.svg" />
     <img src="https://raw.githubusercontent.com/YagoXavier10/YagoXavier10/output/snake-dark.svg" width="100%" alt="Cobrinha comendo as contribuições" />
   </picture>
+</p>
+
+<p align="center">
+  <img src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="Gráfico 3D das contribuições" />
 </p>
 
 <p align="center">
