@@ -58,10 +58,10 @@
 <!-- ATIVIDADE:INICIO -->
 | Quando | Projeto | Último commit |
 | :-: | :-- | :-- |
+| `29/10` | [**tatame-online**](https://github.com/YagoXavier10/tatame-online) · [site](https://yagoxavier10.github.io/tatame-online/) | Tira o ranking do fim do menu solo (agora tem a página própria) |
+| `29/10` | [**cohab-team**](https://github.com/YagoXavier10/cohab-team) · [site](https://yagoxavier10.github.io/cohab-team/) | Regras: UID do admin do Tatame Online |
 | `28/10` | [**classificador-manchetes**](https://github.com/YagoXavier10/classificador-manchetes) · [site](https://yagoxavier10.github.io/classificador-manchetes/) | README: números que não ficam desatualizados |
 | `28/10` | [**portfolio-noticias**](https://github.com/YagoXavier10/portfolio-noticias) · [site](https://yagoxavier10.github.io/portfolio-noticias/) | README com banner animado, prévia, selos e licença MIT |
-| `28/10` | [**tatame-online**](https://github.com/YagoXavier10/tatame-online) · [site](https://yagoxavier10.github.io/tatame-online/) | README com banner animado, prévia, selos e licença MIT |
-| `28/10` | [**cohab-team**](https://github.com/YagoXavier10/cohab-team) · [site](https://yagoxavier10.github.io/cohab-team/) | README com banner animado, prévia, selos e licença MIT |
 <!-- ATIVIDADE:FIM -->
 
 <img src="./assets/divider.svg" width="100%" alt="" />
