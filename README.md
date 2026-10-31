@@ -58,6 +58,7 @@
 <!-- ATIVIDADE:INICIO -->
 | Quando | Projeto | Último commit |
 | :-: | :-- | :-- |
+| `31/10` | [**cada-real**](https://github.com/YagoXavier10/cada-real) · [site](https://yagoxavier10.github.io/cada-real/) | Cria o site Cada Real |
 | `29/10` | [**tatame-online**](https://github.com/YagoXavier10/tatame-online) · [site](https://yagoxavier10.github.io/tatame-online/) | Tira o ranking do fim do menu solo (agora tem a página própria) |
 | `29/10` | [**cohab-team**](https://github.com/YagoXavier10/cohab-team) · [site](https://yagoxavier10.github.io/cohab-team/) | Regras: UID do admin do Tatame Online |
 | `28/10` | [**classificador-manchetes**](https://github.com/YagoXavier10/classificador-manchetes) · [site](https://yagoxavier10.github.io/classificador-manchetes/) | README: números que não ficam desatualizados |
