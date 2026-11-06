@@ -51,6 +51,8 @@
 <a href="https://github.com/YagoXavier10/tatame-online"><img src="https://raw.githubusercontent.com/YagoXavier10/tatame-online/main/assets/banner.svg" width="100%" alt="Tatame Online · jogos de jiu-jitsu" /></a>
 <p align="center"><a href="https://yagoxavier10.github.io/tatame-online/">🎮 Jogar</a> · <a href="https://github.com/YagoXavier10/tatame-online">📂 Código</a></p>
 
+<p align="center"><b>💰 Cada Real</b>: educação financeira em linguagem simples para quem vive com pouco<br /><a href="https://yagoxavier10.github.io/cada-real/">🌐 Ver site</a> · <a href="https://github.com/YagoXavier10/cada-real">📂 Código</a></p>
+
 <img src="./assets/divider.svg" width="100%" alt="" />
 
 ## 🛰️ Últimas atividades
