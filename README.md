@@ -60,11 +60,11 @@
 <!-- ATIVIDADE:INICIO -->
 | Quando | Projeto | Último commit |
 | :-: | :-- | :-- |
-| `31/10` | [**cada-real**](https://github.com/YagoXavier10/cada-real) · [site](https://yagoxavier10.github.io/cada-real/) | Deixa o botão da leitura por áudio mais discreto |
-| `31/10` | [**tatame-online**](https://github.com/YagoXavier10/tatame-online) · [site](https://yagoxavier10.github.io/tatame-online/) | Selo 🥋 Jiu-Jitsu nos 7 jogos sobre jiu-jitsu |
-| `29/10` | [**cohab-team**](https://github.com/YagoXavier10/cohab-team) · [site](https://yagoxavier10.github.io/cohab-team/) | Regras: UID do admin do Tatame Online |
-| `28/10` | [**classificador-manchetes**](https://github.com/YagoXavier10/classificador-manchetes) · [site](https://yagoxavier10.github.io/classificador-manchetes/) | README: números que não ficam desatualizados |
-| `28/10` | [**portfolio-noticias**](https://github.com/YagoXavier10/portfolio-noticias) · [site](https://yagoxavier10.github.io/portfolio-noticias/) | README com banner animado, prévia, selos e licença MIT |
+| `05/11` | [**portfolio-noticias**](https://github.com/YagoXavier10/portfolio-noticias) · [site](https://yagoxavier10.github.io/portfolio-noticias/) | Atualiza o link do LinkedIn na página inicial e no chat |
+| `05/11` | [**cohab-team**](https://github.com/YagoXavier10/cohab-team) · [site](https://yagoxavier10.github.io/cohab-team/) | Atualiza o link do LinkedIn no chat |
+| `05/11` | [**cada-real**](https://github.com/YagoXavier10/cada-real) · [site](https://yagoxavier10.github.io/cada-real/) | Adiciona prévia ao compartilhar a página inicial |
+| `05/11` | [**tatame-online**](https://github.com/YagoXavier10/tatame-online) · [site](https://yagoxavier10.github.io/tatame-online/) | Página de redirecionamento: favicon e fora da busca |
+| `05/11` | [**classificador-manchetes**](https://github.com/YagoXavier10/classificador-manchetes) · [site](https://yagoxavier10.github.io/classificador-manchetes/) | Adiciona favicon e prévia ao compartilhar o link |
 <!-- ATIVIDADE:FIM -->
 
 <img src="./assets/divider.svg" width="100%" alt="" />
