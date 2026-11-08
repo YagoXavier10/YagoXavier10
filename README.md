@@ -60,9 +60,9 @@
 <!-- ATIVIDADE:INICIO -->
 | Quando | Projeto | Último commit |
 | :-: | :-- | :-- |
+| `07/11` | [**cada-real**](https://github.com/YagoXavier10/cada-real) · [site](https://yagoxavier10.github.io/cada-real/) | Merge pull request #1 from YagoXavier10/fix/layout-desktop-largura |
 | `05/11` | [**portfolio-noticias**](https://github.com/YagoXavier10/portfolio-noticias) · [site](https://yagoxavier10.github.io/portfolio-noticias/) | Atualiza o link do LinkedIn na página inicial e no chat |
 | `05/11` | [**cohab-team**](https://github.com/YagoXavier10/cohab-team) · [site](https://yagoxavier10.github.io/cohab-team/) | Atualiza o link do LinkedIn no chat |
-| `05/11` | [**cada-real**](https://github.com/YagoXavier10/cada-real) · [site](https://yagoxavier10.github.io/cada-real/) | Adiciona prévia ao compartilhar a página inicial |
 | `05/11` | [**tatame-online**](https://github.com/YagoXavier10/tatame-online) · [site](https://yagoxavier10.github.io/tatame-online/) | Página de redirecionamento: favicon e fora da busca |
 | `05/11` | [**classificador-manchetes**](https://github.com/YagoXavier10/classificador-manchetes) · [site](https://yagoxavier10.github.io/classificador-manchetes/) | Adiciona favicon e prévia ao compartilhar o link |
 <!-- ATIVIDADE:FIM -->
